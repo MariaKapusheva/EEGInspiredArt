@@ -1,0 +1,362 @@
+{
+    "s00_spectrogram.npy": {
+        "color": "deep red",
+        "atmosphere": "clear sky",
+        "emotion": "focused",
+        "element": "carbon",
+        "centroid_norm": 0.393739785102781,
+        "entropy_norm": 0.8252202527145793,
+        "power_norm": 0.0034752432151285775,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a focused emotional tone. The atmosphere feels like clear sky, dominated by hues of deep red. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s01_spectrogram.npy": {
+        "color": "violet",
+        "atmosphere": "murky fog",
+        "emotion": "rested",
+        "element": "carbon",
+        "centroid_norm": 0.4945244395861844,
+        "entropy_norm": 0.7275658462235122,
+        "power_norm": 0.0006529259007416693,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a rested emotional tone. The atmosphere feels like murky fog, dominated by hues of violet. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s02_spectrogram.npy": {
+        "color": "blue",
+        "atmosphere": "murky fog",
+        "emotion": "agitated",
+        "element": "carbon",
+        "centroid_norm": 0.46909850381216667,
+        "entropy_norm": 0.8346411741944826,
+        "power_norm": 0.0020706038106671314,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a agitated emotional tone. The atmosphere feels like murky fog, dominated by hues of blue. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s03_spectrogram.npy": {
+        "color": "green",
+        "atmosphere": "sunset glow",
+        "emotion": "agitated",
+        "element": "carbon",
+        "centroid_norm": 0.44749178659737593,
+        "entropy_norm": 0.8322905285758805,
+        "power_norm": 0.00446858841336533,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a agitated emotional tone. The atmosphere feels like sunset glow, dominated by hues of green. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s04_spectrogram.npy": {
+        "color": "green",
+        "atmosphere": "misty morning",
+        "emotion": "calmed",
+        "element": "carbon",
+        "centroid_norm": 0.45182542614690036,
+        "entropy_norm": 0.8236013021247507,
+        "power_norm": 0.0025615215737210283,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a calmed emotional tone. The atmosphere feels like misty morning, dominated by hues of green. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s05_spectrogram.npy": {
+        "color": "deep red",
+        "atmosphere": "clear sky",
+        "emotion": "focused",
+        "element": "carbon",
+        "centroid_norm": 0.4012402703033452,
+        "entropy_norm": 0.8252407164370452,
+        "power_norm": 0.0033729625504686418,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a focused emotional tone. The atmosphere feels like clear sky, dominated by hues of deep red. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s06_spectrogram.npy": {
+        "color": "deep red",
+        "atmosphere": "misty morning",
+        "emotion": "calmed",
+        "element": "carbon",
+        "centroid_norm": 0.38875158941282406,
+        "entropy_norm": 0.8221334769405229,
+        "power_norm": 0.002978150006369898,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a calmed emotional tone. The atmosphere feels like misty morning, dominated by hues of deep red. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s07_spectrogram.npy": {
+        "color": "green",
+        "atmosphere": "misty morning",
+        "emotion": "calmed",
+        "element": "carbon",
+        "centroid_norm": 0.45438198494799614,
+        "entropy_norm": 0.8234908334657722,
+        "power_norm": 0.0028089702185691806,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a calmed emotional tone. The atmosphere feels like misty morning, dominated by hues of green. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s08_spectrogram.npy": {
+        "color": "blue",
+        "atmosphere": "electric storm",
+        "emotion": "agitated",
+        "element": "carbon",
+        "centroid_norm": 0.47367167763916923,
+        "entropy_norm": 0.8304250007420162,
+        "power_norm": 0.006575844049093743,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a agitated emotional tone. The atmosphere feels like electric storm, dominated by hues of blue. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s09_spectrogram.npy": {
+        "color": "yellow",
+        "atmosphere": "electric storm",
+        "emotion": "stimulated",
+        "element": "carbon",
+        "centroid_norm": 0.43738963934444214,
+        "entropy_norm": 0.8258426689143734,
+        "power_norm": 0.004640827680084215,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a stimulated emotional tone. The atmosphere feels like electric storm, dominated by hues of yellow. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s10_spectrogram.npy": {
+        "color": "orange",
+        "atmosphere": "sunset glow",
+        "emotion": "focused",
+        "element": "carbon",
+        "centroid_norm": 0.4079754348893163,
+        "entropy_norm": 0.8239682020473218,
+        "power_norm": 0.004305586339937757,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a focused emotional tone. The atmosphere feels like sunset glow, dominated by hues of orange. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s11_spectrogram.npy": {
+        "color": "yellow",
+        "atmosphere": "sunset glow",
+        "emotion": "focused",
+        "element": "carbon",
+        "centroid_norm": 0.4381211326129185,
+        "entropy_norm": 0.8258083370744633,
+        "power_norm": 0.0042937350339142645,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a focused emotional tone. The atmosphere feels like sunset glow, dominated by hues of yellow. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s12_spectrogram.npy": {
+        "color": "deep red",
+        "atmosphere": "clear sky",
+        "emotion": "stimulated",
+        "element": "carbon",
+        "centroid_norm": 0.384470962926418,
+        "entropy_norm": 0.8276998281420146,
+        "power_norm": 0.003875557731825026,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a stimulated emotional tone. The atmosphere feels like clear sky, dominated by hues of deep red. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s13_spectrogram.npy": {
+        "color": "green",
+        "atmosphere": "clear sky",
+        "emotion": "stimulated",
+        "element": "carbon",
+        "centroid_norm": 0.45442895815688567,
+        "entropy_norm": 0.8289882503529691,
+        "power_norm": 0.0032786200484021546,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a stimulated emotional tone. The atmosphere feels like clear sky, dominated by hues of green. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s14_spectrogram.npy": {
+        "color": "yellow",
+        "atmosphere": "murky fog",
+        "emotion": "rested",
+        "element": "carbon",
+        "centroid_norm": 0.44328553198700466,
+        "entropy_norm": 0.7986174190071835,
+        "power_norm": 0.0014722489679357454,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a rested emotional tone. The atmosphere feels like murky fog, dominated by hues of yellow. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s15_spectrogram.npy": {
+        "color": "yellow",
+        "atmosphere": "sunset glow",
+        "emotion": "focused",
+        "element": "carbon",
+        "centroid_norm": 0.4371913883271945,
+        "entropy_norm": 0.8256796664051169,
+        "power_norm": 0.004346102356667747,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a focused emotional tone. The atmosphere feels like sunset glow, dominated by hues of yellow. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s16_spectrogram.npy": {
+        "color": "orange",
+        "atmosphere": "misty morning",
+        "emotion": "stimulated",
+        "element": "carbon",
+        "centroid_norm": 0.4153944856315024,
+        "entropy_norm": 0.8294795117077978,
+        "power_norm": 0.002894534251683534,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a stimulated emotional tone. The atmosphere feels like misty morning, dominated by hues of orange. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s17_spectrogram.npy": {
+        "color": "deep red",
+        "atmosphere": "clear sky",
+        "emotion": "rested",
+        "element": "carbon",
+        "centroid_norm": 0.38872556743258,
+        "entropy_norm": 0.8143573214440651,
+        "power_norm": 0.003088489240038379,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a rested emotional tone. The atmosphere feels like clear sky, dominated by hues of deep red. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s18_spectrogram.npy": {
+        "color": "yellow",
+        "atmosphere": "sunset glow",
+        "emotion": "agitated",
+        "element": "carbon",
+        "centroid_norm": 0.4423547001430275,
+        "entropy_norm": 0.8322684254655967,
+        "power_norm": 0.003968085762663659,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a agitated emotional tone. The atmosphere feels like sunset glow, dominated by hues of yellow. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s19_spectrogram.npy": {
+        "color": "blue",
+        "atmosphere": "electric storm",
+        "emotion": "agitated",
+        "element": "carbon",
+        "centroid_norm": 0.4589602070212537,
+        "entropy_norm": 0.8383467150366158,
+        "power_norm": 0.00590647194818795,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a agitated emotional tone. The atmosphere feels like electric storm, dominated by hues of blue. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s20_spectrogram.npy": {
+        "color": "blue",
+        "atmosphere": "electric storm",
+        "emotion": "agitated",
+        "element": "carbon",
+        "centroid_norm": 0.46159520261673037,
+        "entropy_norm": 0.8365306957578823,
+        "power_norm": 0.006146754468044166,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a agitated emotional tone. The atmosphere feels like electric storm, dominated by hues of blue. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s21_spectrogram.npy": {
+        "color": "orange",
+        "atmosphere": "clear sky",
+        "emotion": "focused",
+        "element": "carbon",
+        "centroid_norm": 0.4203520274515131,
+        "entropy_norm": 0.8237416055893543,
+        "power_norm": 0.0034918137378407376,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a focused emotional tone. The atmosphere feels like clear sky, dominated by hues of orange. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s22_spectrogram.npy": {
+        "color": "orange",
+        "atmosphere": "clear sky",
+        "emotion": "calmed",
+        "element": "carbon",
+        "centroid_norm": 0.4170198636860002,
+        "entropy_norm": 0.8216941315042495,
+        "power_norm": 0.003359294719708265,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a calmed emotional tone. The atmosphere feels like clear sky, dominated by hues of orange. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s23_spectrogram.npy": {
+        "color": "deep red",
+        "atmosphere": "electric storm",
+        "emotion": "calmed",
+        "element": "carbon",
+        "centroid_norm": 0.3899321958077251,
+        "entropy_norm": 0.8210435642446532,
+        "power_norm": 0.00570480583028864,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a calmed emotional tone. The atmosphere feels like electric storm, dominated by hues of deep red. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s24_spectrogram.npy": {
+        "color": "yellow",
+        "atmosphere": "murky fog",
+        "emotion": "calmed",
+        "element": "carbon",
+        "centroid_norm": 0.43317965284823434,
+        "entropy_norm": 0.8221795436023251,
+        "power_norm": 0.0018045903165339779,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a calmed emotional tone. The atmosphere feels like murky fog, dominated by hues of yellow. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s25_spectrogram.npy": {
+        "color": "orange",
+        "atmosphere": "sunset glow",
+        "emotion": "rested",
+        "element": "carbon",
+        "centroid_norm": 0.41390876924438424,
+        "entropy_norm": 0.8210036735465714,
+        "power_norm": 0.004132811958856728,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a rested emotional tone. The atmosphere feels like sunset glow, dominated by hues of orange. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s26_spectrogram.npy": {
+        "color": "green",
+        "atmosphere": "murky fog",
+        "emotion": "rested",
+        "element": "carbon",
+        "centroid_norm": 0.45553053026892276,
+        "entropy_norm": 0.7940027763830831,
+        "power_norm": 0.0007913675368132526,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a rested emotional tone. The atmosphere feels like murky fog, dominated by hues of green. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s27_spectrogram.npy": {
+        "color": "orange",
+        "atmosphere": "misty morning",
+        "emotion": "rested",
+        "element": "carbon",
+        "centroid_norm": 0.4306986438328198,
+        "entropy_norm": 0.8199818934117828,
+        "power_norm": 0.0022743059864032368,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a rested emotional tone. The atmosphere feels like misty morning, dominated by hues of orange. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s28_spectrogram.npy": {
+        "color": "blue",
+        "atmosphere": "electric storm",
+        "emotion": "agitated",
+        "element": "carbon",
+        "centroid_norm": 0.47296100915766526,
+        "entropy_norm": 0.8351084632912629,
+        "power_norm": 0.005580121640345155,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a agitated emotional tone. The atmosphere feels like electric storm, dominated by hues of blue. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s29_spectrogram.npy": {
+        "color": "deep red",
+        "atmosphere": "sunset glow",
+        "emotion": "focused",
+        "element": "carbon",
+        "centroid_norm": 0.37271307346054283,
+        "entropy_norm": 0.824071024096969,
+        "power_norm": 0.0041830269202364845,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a focused emotional tone. The atmosphere feels like sunset glow, dominated by hues of deep red. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s30_spectrogram.npy": {
+        "color": "green",
+        "atmosphere": "electric storm",
+        "emotion": "stimulated",
+        "element": "carbon",
+        "centroid_norm": 0.4491900588174002,
+        "entropy_norm": 0.8261411231884065,
+        "power_norm": 0.0044906974308258196,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a stimulated emotional tone. The atmosphere feels like electric storm, dominated by hues of green. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s31_spectrogram.npy": {
+        "color": "blue",
+        "atmosphere": "murky fog",
+        "emotion": "calmed",
+        "element": "carbon",
+        "centroid_norm": 0.45752531752126235,
+        "entropy_norm": 0.8215341148144109,
+        "power_norm": 0.0002639317842967038,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a calmed emotional tone. The atmosphere feels like murky fog, dominated by hues of blue. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s32_spectrogram.npy": {
+        "color": "orange",
+        "atmosphere": "misty morning",
+        "emotion": "stimulated",
+        "element": "carbon",
+        "centroid_norm": 0.4058625852037069,
+        "entropy_norm": 0.8273548936167073,
+        "power_norm": 0.0027775614253397994,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a stimulated emotional tone. The atmosphere feels like misty morning, dominated by hues of orange. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s33_spectrogram.npy": {
+        "color": "green",
+        "atmosphere": "misty morning",
+        "emotion": "rested",
+        "element": "carbon",
+        "centroid_norm": 0.44573457316029846,
+        "entropy_norm": 0.8207866354834967,
+        "power_norm": 0.0023735846794370567,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a rested emotional tone. The atmosphere feels like misty morning, dominated by hues of green. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s34_spectrogram.npy": {
+        "color": "blue",
+        "atmosphere": "murky fog",
+        "emotion": "stimulated",
+        "element": "carbon",
+        "centroid_norm": 0.4787993021520432,
+        "entropy_norm": 0.8295164001881811,
+        "power_norm": 0.0020344857149063493,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a stimulated emotional tone. The atmosphere feels like murky fog, dominated by hues of blue. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    },
+    "s35_spectrogram.npy": {
+        "color": "yellow",
+        "atmosphere": "electric storm",
+        "emotion": "agitated",
+        "element": "carbon",
+        "centroid_norm": 0.4355579734867034,
+        "entropy_norm": 0.8317481358985936,
+        "power_norm": 0.004563837798808808,
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a agitated emotional tone. The atmosphere feels like electric storm, dominated by hues of yellow. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form."
+    }
+}
