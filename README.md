@@ -1,9 +1,11 @@
-# # Evaluation metrics ideas:  
-# 1. CLIP similarity = measures how semantically similar the generated image is to its prompt
-- was also used in the StageDesigner paper: [link to paper](https://arxiv.org/abs/2503.02595)
-- we can use a pre-trained CLIP model from [Kaggle](https://huggingface.co/openai/clip-vit-base-patch32) 
+### EEG Inspired Art Generation  
 
-# 2. Colour consistency = checks if the colours from the prompt are predominating the generated image  
-- to calculate this we could convert the image to HSV format and calculate the average hue or dominant colour cluster  
 
-# 3. User study for qualitative analysis  
+Steps to run the code and generate images:  
+1. Run `spectogram_analysis.py` to extract spectograms from the dataset  
+2. Run `mapping.py` to analyze the spectograms, map them to symbolic elements (colours, atmpshere, emotions) and create prompts. A `eeg_prompts.json` file will be created containing them.  
+3. Run `generate_images_from_prompts.py` which loads the Stable Diffusion model, gives the prompts as input and generates the final images.  
+
+In order to evaluate the new images, there is an additional step:  
+4. Run `evaluation.py` which assigns each prompt-image pair a CLIP similarity and a colour match score.   
+
