@@ -19,7 +19,7 @@ def generate_spectrograms(
     files = glob.glob(os.path.join(directory, file_pattern))
     
     if not files:
-        print("No EEG files found — check your directory or pattern.")
+        print("No EEG files found.")
         return
     
     for file in files:
@@ -53,7 +53,6 @@ def generate_spectrograms(
         
         print(f"Saved spectrogram for {subject_id}")
     
-    print(f"✅ Done! All spectrograms saved in '{out_dir}'")
+    print(f" All spectrograms are saved in '{out_dir}'")
 
-# Example usage
 generate_spectrograms('archive', fs=250)
