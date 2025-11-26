@@ -1,0 +1,86 @@
+{
+    "s00_spectrogram.npy": {
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a focused emotional tone. The atmosphere feels like clear sky, dominated by hues of deep red. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form.",
+        "intended_color": "deep red",
+        "clip_score": 0.2357901632785797,
+        "color_match_score": 0.952434972872102
+    },
+    "s01_spectrogram.npy": {
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a rested emotional tone. The atmosphere feels like murky fog, dominated by hues of violet. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form.",
+        "intended_color": "violet",
+        "clip_score": 0.3041827082633972,
+        "color_match_score": 0.7605588199326204
+    },
+    "s02_spectrogram.npy": {
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a agitated emotional tone. The atmosphere feels like murky fog, dominated by hues of blue. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form.",
+        "intended_color": "blue",
+        "clip_score": 0.21711932122707367,
+        "color_match_score": 0.8228678018191627
+    },
+    "s03_spectrogram.npy": {
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a agitated emotional tone. The atmosphere feels like sunset glow, dominated by hues of green. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form.",
+        "intended_color": "green",
+        "clip_score": 0.21836762130260468,
+        "color_match_score": 0.6862707101211081
+    },
+    "s04_spectrogram.npy": {
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a calmed emotional tone. The atmosphere feels like misty morning, dominated by hues of green. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form.",
+        "intended_color": "green",
+        "clip_score": 0.2795238196849823,
+        "color_match_score": 0.7816525511617103
+    },
+    "s05_spectrogram.npy": {
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a focused emotional tone. The atmosphere feels like clear sky, dominated by hues of deep red. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form.",
+        "intended_color": "deep red",
+        "clip_score": 0.26907244324684143,
+        "color_match_score": 0.8987432491529882
+    },
+    "s06_spectrogram.npy": {
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a calmed emotional tone. The atmosphere feels like misty morning, dominated by hues of deep red. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form.",
+        "intended_color": "deep red",
+        "clip_score": 0.2528664767742157,
+        "color_match_score": 0.8313589724430562
+    },
+    "s07_spectrogram.npy": {
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a calmed emotional tone. The atmosphere feels like misty morning, dominated by hues of green. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form.",
+        "intended_color": "green",
+        "clip_score": 0.2535150349140167,
+        "color_match_score": 0.7721455112361506
+    },
+    "s08_spectrogram.npy": {
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a agitated emotional tone. The atmosphere feels like electric storm, dominated by hues of blue. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form.",
+        "intended_color": "blue",
+        "clip_score": 0.27027568221092224,
+        "color_match_score": 0.7964102677979351
+    },
+    "s09_spectrogram.npy": {
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a stimulated emotional tone. The atmosphere feels like electric storm, dominated by hues of yellow. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form.",
+        "intended_color": "yellow",
+        "clip_score": 0.25977325439453125,
+        "color_match_score": 0.8537283136247606
+    },
+    "s10_spectrogram.npy": {
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a focused emotional tone. The atmosphere feels like sunset glow, dominated by hues of orange. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form.",
+        "intended_color": "orange",
+        "clip_score": 0.24878181517124176,
+        "color_match_score": 0.8470437918000903
+    },
+    "s11_spectrogram.npy": {
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a focused emotional tone. The atmosphere feels like sunset glow, dominated by hues of yellow. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form.",
+        "intended_color": "yellow",
+        "clip_score": 0.2727500796318054,
+        "color_match_score": 0.7544520258252778
+    },
+    "s12_spectrogram.npy": {
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a stimulated emotional tone. The atmosphere feels like clear sky, dominated by hues of deep red. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form.",
+        "intended_color": "deep red",
+        "clip_score": 0.27284863591194153,
+        "color_match_score": 0.9035281297678791
+    },
+    "s13_spectrogram.npy": {
+        "prompt": "An abstract composition inspired by EEG patterns, evoking a stimulated emotional tone. The atmosphere feels like clear sky, dominated by hues of green. It carries the elemental quality of carbon, expressing inner mental dynamics as visual form.",
+        "intended_color": "green",
+        "clip_score": 0.28528061509132385,
+        "color_match_score": 0.7455058894041142
+    }
+}
