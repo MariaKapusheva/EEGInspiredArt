@@ -13,6 +13,9 @@ The EEG dataset used can be obtained from: [Kaggle](https://www.kaggle.com/datas
 
 ## Output examples: 
 <img src="https://github.com/user-attachments/assets/b4bc856c-9947-4192-95e4-f406660f06a8" style="width:150px;">
+<img src="https://github.com/user-attachments/assets/41272f78-9c75-4bc6-bb7c-72a57c1f66d2" style="width:150px;">
+<img src="https://github.com/user-attachments/assets/d1c3199e-c4c6-4484-8654-1ee17be8459b" style="width:150px;">
+<img src="https://github.com/user-attachments/assets/a0bc15b3-2a6a-46e3-913a-cf3a7f742809" style="width:150px;">
 <img src="https://github.com/user-attachments/assets/67d260d5-d3f1-43cb-876f-567990d5d8d1" style="width:150px;">
 <img src="https://github.com/user-attachments/assets/ca0eb55a-fe3d-4e90-b713-b4326d683810" style="width:150px;">
 <img src="(https://github.com/user-attachments/assets/34d95129-7af1-484e-ad42-2870828ef000" style="width:150px;">
