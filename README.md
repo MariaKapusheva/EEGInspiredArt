@@ -3,10 +3,11 @@
 The purpose of this project is to generate artistic images by analysing EEG data and mapping brain states to symbolic representations. These mappings are then integrated into a prompt for a Stable Diffusion model that generates the final output.
 
 ### Steps to run the code and generate images:  
-1. Run `spectogram_analysis.py` to extract spectograms from the dataset  
-2. Run `mapping.py` to analyze the spectograms, map them to symbolic elements (colours, atmpshere, emotions) and create prompts. A `eeg_prompts.json` file will be created containing them.  
-3. Run `generate_images_from_prompts.py` which loads the Stable Diffusion model, gives the prompts as input and generates the final images.  
-4. Run `evaluation.py` which assigns each prompt-image pair a CLIP similarity and a colour match score.  
+1. Insall the necessary packages from `requiremnets.txt`  
+2. Run `spectogram_analysis.py` to extract spectograms from the dataset  
+3. Run `mapping.py` to analyze the spectograms, map them to symbolic elements (colours, atmpshere, emotions) and create prompts. A `eeg_prompts.json` file will be created containing them.  
+4. Run `generate_images_from_prompts.py` which loads the Stable Diffusion model, gives the prompts as input and generates the final images.  
+5. Run `evaluation.py` which assigns each prompt-image pair a CLIP similarity and a colour match score.  
 
 
 The EEG dataset used can be obtained from: [Kaggle](https://www.kaggle.com/datasets/amananandrai/complete-eeg-dataset)  
