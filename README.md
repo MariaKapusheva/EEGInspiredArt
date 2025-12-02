@@ -3,7 +3,7 @@
 The purpose of this project is to generate artistic images by analysing EEG data and mapping brain states to symbolic representations. These mappings are then integrated into a prompt for a Stable Diffusion model that generates the final output.
 
 ### Steps to run the code and generate images:  
-1. Insall the necessary packages from `requiremnets.txt`  
+1. Insall the necessary packages from `requirements.txt`  
 2. Run `spectogram_analysis.py` to extract spectograms from the dataset  
 3. Run `mapping.py` to analyze the spectograms, map them to symbolic elements (colours, atmpshere, emotions) and create prompts. A `eeg_prompts.json` file will be created containing them.  
 4. Run `generate_images_from_prompts.py` which loads the Stable Diffusion model, gives the prompts as input and generates the final images.  
